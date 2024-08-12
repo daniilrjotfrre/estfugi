@@ -1,0 +1,1 @@
+const interpolator = (x) => x;
